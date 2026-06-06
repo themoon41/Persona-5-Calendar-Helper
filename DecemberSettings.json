@@ -1,0 +1,189 @@
+{
+  "startingDate": 27,
+  "startingOutOfMonth": 1,
+  "lastOutOfMonthDate": 30,
+  "previousMonth": "November",
+  "previousMonthNum": 11,
+  "currentMonth": "December",
+  "currentMonthNum": 12,
+  "currentMonthEndDate": 31,
+  "nextMonth": "January",
+  "nextMonthNum": 12,
+  "year": "2016",
+  "dayToEvents": {
+    "2": [
+      {
+        "Type": "Puzzle",
+        "Title": "Crossword",
+        "Footnote": "INFLUENZA"
+      }
+    ],
+    "4": [
+      {
+        "Type": "Jazz Club",
+        "Title": "Heat Riser",
+        "Footnote": "Increases 1 ally's Attack, Defense and Hit/Evasion for 3 turns."
+      }
+    ],
+    "7": [
+      {
+        "Type": "Puzzle",
+        "Title": "Crossword",
+        "Footnote": "ILLUMINATE"
+      }
+    ],
+    "11": [
+      {
+        "Type": "Jazz Club",
+        "Title": "Debilitate",
+        "Footnote": "Decreases 1 foe's Attack, Defense and Hit/Evasion for 3 turns."
+      }
+    ],
+    "12": [
+      {
+        "Type": "Puzzle",
+        "Title": "Crossword",
+        "Footnote": "APPROVAL"
+      }
+    ],
+    "17": [
+      {
+        "Type": "Story",
+        "Title": "Last Call"
+      }
+    ],
+    "18": [
+      {
+        "Type": "Story",
+        "Title": "Election"
+      }
+    ],
+    "19": [
+      {
+        "Type": "Puzzle",
+        "Title": "Crossword",
+        "Footnote": "CHRISTMAS"
+      }
+    ],
+    "20": [
+      {
+        "Type": "Exam",
+        "Title": "Final Exams"
+      }
+    ],
+    "21": [
+      {
+        "Type": "Exam",
+        "Title": "Final Exams"
+      }
+    ],
+    "22": [
+      {
+        "Type": "Exam",
+        "Title": "Final Exams"
+      }
+    ],
+    "24": [
+      {
+        "Type": "Exam",
+        "Title": "Exam Scores"
+      },
+      {
+        "Type": "Story",
+        "Title": "Mementos"
+      }
+    ]
+  },
+  "dayToWeather": {
+    "3": {
+      "WeatherDay": "Snow",
+      "WeatherNight": "Rain"
+    },
+    "8": {
+      "WeatherDay": "Flu Season",
+      "WeatherNight": "Flu Season"
+    },
+    "9": {
+      "WeatherDay": "Flu Season",
+      "WeatherNight": "Flu Season"
+    },
+    "10": {
+      "WeatherDay": "Cloudy",
+      "WeatherNight": "Rain"
+    },
+    "13": {
+      "WeatherDay": "Rain",
+      "WeatherNight": "Cloudy"
+    },
+    "15": {
+      "WeatherDay": "Snow",
+      "WeatherNight": "Clear"
+    },
+    "16": {
+      "WeatherDay": "Clear",
+      "WeatherNight": "Snow"
+    },
+    "24": {
+      "WeatherDay": "Clear",
+      "WeatherNight": "Snow"
+    },
+    "25": {
+      "WeatherDay": "Snow",
+      "WeatherNight": "Snow"
+    }
+  },
+  "dayToFreeTime": {
+    "18": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Blocked"
+    },
+    "19": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Free"
+    },
+    "20": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Blocked"
+    },
+    "21": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Blocked"
+    },
+    "23": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Blocked"
+    },
+    "24": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Blocked"
+    },
+    "25": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Blocked"
+    },
+    "26": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Blocked"
+    },
+    "27": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Blocked"
+    },
+    "28": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Blocked"
+    },
+    "29": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Blocked"
+    },
+    "30": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Blocked"
+    },
+    "31": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Blocked"
+    }
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "startingDate": 28,
+  "startingOutOfMonth": 1,
+  "lastOutOfMonthDate": 31,
+  "previousMonth": "August",
+  "previousMonthNum": 8,
+  "currentMonth": "September",
+  "currentMonthNum": 9,
+  "currentMonthEndDate": 30,
+  "nextMonth": "October",
+  "nextMonthNum": 10,
+  "year": "2016",
+  "dayToEvents": {
+    "2": [
+      {
+        "Type": "Puzzle",
+        "Title": "Crossword",
+        "Footnote": "TYPHOON"
+      }
+    ],
+    "4": [
+      {
+        "Type": "Jazz Club",
+        "Title": "Charge",
+        "Footnote": "Multiplies user's next Physical or Gun attack damage by 2.5."
+      }
+    ],
+    "19": [
+      {
+        "Type": "Puzzle",
+        "Title": "Crossword",
+        "Footnote": "FESTIVAL"
+      }
+    ],
+    "25": [
+      {
+        "Type": "Jazz Club",
+        "Title": "Concentrate",
+        "Footnote": "Multiplies user's next magical attack damage by 2.5."
+      }
+    ],
+    "28": [
+      {
+        "Type": "Puzzle",
+        "Title": "Crossword",
+        "Footnote": "RANKING"
+      }
+    ]
+  },
+  "dayToWeather": {
+    "14": {
+      "WeatherDay": "Clear",
+      "WeatherNight": "Rain"
+    },
+    "26": {
+      "WeatherDay": "Cloudy",
+      "WeatherNight": "Rain"
+    }
+  },
+  "dayToFreeTime": {
+    "1": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Free"
+    },
+    "3": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Free"
+    },
+    "6": {
+      "DaySlot": "Free",
+      "NightSlot": "Blocked"
+    },
+    "7": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Blocked"
+    },
+    "8": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Blocked"
+    },
+    "9": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Blocked"
+    },
+    "10": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Blocked"
+    },
+    "11": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Blocked"
+    },
+    "12": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Blocked"
+    },
+    "13": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Blocked"
+    },
+    "14": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Blocked"
+    },
+    "15": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Blocked"
+    },
+    "16": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Blocked"
+    },
+    "17": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Blocked"
+    },
+    "18": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Restricted"
+    }
+  }
+}

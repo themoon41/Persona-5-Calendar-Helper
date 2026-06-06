@@ -1,0 +1,168 @@
+{
+  "startingDate": 25,
+  "startingOutOfMonth": 1,
+  "lastOutOfMonthDate": 30,
+  "previousMonth": "September",
+  "previousMonthNum": 9,
+  "currentMonth": "October",
+  "currentMonthNum": 10,
+  "currentMonthEndDate": 31,
+  "nextMonth": "November",
+  "nextMonthNum": 11,
+  "year": "2016",
+  "dayToEvents": {
+    "2": [
+      {
+        "Type": "Jazz Club",
+        "Title": "Tetrakarn",
+        "Footnote": "Erects a shield on 1 ally to repel 1 (non-Almighty) Physical or Gun attack."
+      }
+    ],
+    "9": [
+      {
+        "Type": "Jazz Club",
+        "Title": "Matarukaja",
+        "Footnote": "Increases party's Attack power by 40% for 3 turns."
+      }
+    ],
+    "16": [
+      {
+        "Type": "Jazz Club",
+        "Title": "Marakukuja",
+        "Footnote": "Increases party's Defense by 40% for 3 turns."
+      }
+    ],
+    "17": [
+      {
+        "Type": "Exam",
+        "Title": "Midterm Exams"
+      }
+    ],
+    "18": [
+      {
+        "Type": "Exam",
+        "Title": "Midterm Exams"
+      }
+    ],
+    "19": [
+      {
+        "Type": "Exam",
+        "Title": "Midterm Exams"
+      }
+    ],
+    "20": [
+      {
+        "Type": "Exam",
+        "Title": "Midterm Exams"
+      }
+    ],
+    "23": [
+      {
+        "Type": "Jazz Club",
+        "Title": "Masukukaja",
+        "Footnote": "Increases party's Hit/Evasion by 30% for 3 turns."
+      }
+    ],
+    "24": [
+      {
+        "Type": "Exam",
+        "Title": "Exam Scores"
+      }
+    ],
+    "30": [
+      {
+        "Type": "Jazz Club",
+        "Title": "Makarakarn",
+        "Footnote": "Erects a shield on 1 ally to repel 1 (non-Almighty) magical attack."
+      }
+    ]
+  },
+  "dayToWeather": {
+    "5": {
+      "WeatherDay": "Clear",
+      "WeatherNight": "Rain"
+    },
+    "14": {
+      "WeatherDay": "Rain",
+      "WeatherNight": "Cloudy"
+    },
+    "17": {
+      "WeatherDay": "Rain",
+      "WeatherNight": "Rain"
+    },
+    "26": {
+      "WeatherDay": "Clear",
+      "WeatherNight": "Rain"
+    }
+  },
+  "dayToFreeTime": {
+    "3": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Blocked"
+    },
+    "11": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Blocked"
+    },
+    "12": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Restricted"
+    },
+    "13": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Restricted"
+    },
+    "17": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Blocked"
+    },
+    "18": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Blocked"
+    },
+    "19": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Blocked"
+    },
+    "20": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Restricted"
+    },
+    "21": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Restricted"
+    },
+    "22": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Free"
+    },
+    "23": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Free"
+    },
+    "24": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Free"
+    },
+    "25": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Restricted"
+    },
+    "26": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Blocked"
+    },
+    "27": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Restricted"
+    },
+    "28": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Blocked"
+    },
+    "29": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Restricted"
+    }
+  }
+}
