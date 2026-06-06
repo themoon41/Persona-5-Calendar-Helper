@@ -63,6 +63,8 @@ for settings in settingsFiles:
                             event["Details"] = f"Taking a party member to the Jazz Club will teach them '{event['Title']}.'"
                         if event["Type"] == "Puzzle":
                             event["Details"] = f"New crossword at Leblanc! The solution is: '{event['Footnote']}.'"
+                        if event["Type"] == "Exam" and "ListDetails" in event:
+                            event["Details"] = "Here are the answers to the prompts in order:"
                         events.append(event)
 
                 if dateIndexKey in dayToWeather:
