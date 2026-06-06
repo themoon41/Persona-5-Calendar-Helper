@@ -1,0 +1,103 @@
+{
+  "startingDate": 27,
+  "startingOutOfMonth": 1,
+  "lastOutOfMonthDate": 31,
+  "previousMonth": "March",
+  "previousMonthNum": 3,
+  "currentMonth": "April",
+  "currentMonthNum": 4,
+  "currentMonthEndDate": 30,
+  "nextMonth": "May",
+  "nextMonthNum": 5,
+  "year": "2016",
+  "dayToEvents": {
+  },
+  "dayToWeather": {
+    "12": {
+      "WeatherDay": "Rain",
+      "WeatherNight": "Cloudy"
+    },
+    "20": {
+      "WeatherDay": "Rain",
+      "WeatherNight": "Rain"
+    },
+    "21": {
+      "WeatherDay": "Rain",
+      "WeatherNight": "Cloudy"
+    }
+  },
+  "dayToFreeTime": {
+    "1": {
+      "DaySlot": "",
+      "NightSlot": ""
+    },
+    "2": {
+      "DaySlot": "",
+      "NightSlot": ""
+    },
+    "3": {
+      "DaySlot": "",
+      "NightSlot": ""
+    },
+    "4": {
+      "DaySlot": "",
+      "NightSlot": ""
+    },
+    "5": {
+      "DaySlot": "",
+      "NightSlot": ""
+    },
+    "6": {
+      "DaySlot": "",
+      "NightSlot": ""
+    },
+    "7": {
+      "DaySlot": "",
+      "NightSlot": ""
+    },
+    "8": {
+      "DaySlot": "",
+      "NightSlot": ""
+    },
+    "9": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Blocked"
+    },
+    "10": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Blocked"
+    },
+    "11": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Blocked"
+    },
+    "12": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Blocked"
+    },
+    "13": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Blocked"
+    },
+    "14": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Blocked"
+    },
+    "15": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Blocked"
+    },
+    "16": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Blocked"
+    },
+    "17": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Blocked"
+    },
+    "20": {
+      "DaySlot": "Free",
+      "NightSlot": "Restricted"
+    }
+  }
+}

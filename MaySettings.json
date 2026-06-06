@@ -1,0 +1,107 @@
+{
+  "startingDate": 1,
+  "startingOutOfMonth": 0,
+  "lastOutOfMonthDate": 0,
+  "previousMonth": "April",
+  "previousMonthNum": 4,
+  "currentMonth": "May",
+  "currentMonthNum": 5,
+  "currentMonthEndDate": 31,
+  "nextMonth": "June",
+  "nextMonthNum": 6,
+  "year": "2016",
+  "dayToEvents": {
+  },
+  "dayToWeather": {
+    "9": {
+      "WeatherDay": "Pollen",
+      "WeatherNight": "Pollen"
+    },
+    "10": {
+      "WeatherDay": "Pollen",
+      "WeatherNight": "Pollen"
+    },
+    "15": {
+      "WeatherDay": "Rain",
+      "WeatherNight": "Cloudy"
+    },
+    "19": {
+      "WeatherDay": "Rain",
+      "WeatherNight": "Rain"
+    },
+    "20": {
+      "WeatherDay": "Pollen",
+      "WeatherNight": "Pollen"
+    },
+    "23": {
+      "WeatherDay": "Pollen",
+      "WeatherNight": "Pollen"
+    },
+    "26": {
+      "WeatherDay": "Pollen",
+      "WeatherNight": "Pollen"
+    },
+    "31": {
+      "WeatherDay": "Pollen",
+      "WeatherNight": "Pollen"
+    }
+  },
+  "dayToFreeTime": {
+    "2": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Free"
+    },
+    "3": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Restricted"
+    },
+    "4": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Restricted"
+    },
+    "5": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Restricted"
+    },
+    "7": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Restricted"
+    },
+    "8": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Free"
+    },
+    "11": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Blocked"
+    },
+    "12": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Blocked"
+    },
+    "13": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Blocked"
+    },
+    "14": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Restricted"
+    },
+    "15": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Restricted"
+    },
+    "16": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Blocked"
+    },
+    "17": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Restricted"
+    },
+    "30": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Free"
+    }
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "startingDate": 31,
+  "startingOutOfMonth": 1,
+  "lastOutOfMonthDate": 31,
+  "previousMonth": "July",
+  "previousMonthNum": 7,
+  "currentMonth": "August",
+  "currentMonthNum": 8,
+  "currentMonthEndDate": 31,
+  "nextMonth": "September",
+  "nextMonthNum": 9,
+  "year": "2016",
+  "dayToEvents": {
+  },
+  "dayToWeather": {
+    "1": {
+      "WeatherDay": "Torrential Rain",
+      "WeatherNight": "Clear"
+    },
+    "2": {
+      "WeatherDay": "Heat Wave",
+      "WeatherNight": "Tropical Night"
+    },
+    "3": {
+      "WeatherDay": "Torrential Rain",
+      "WeatherNight": "Torrential Rain"
+    },
+    "4": {
+      "WeatherDay": "Heat Wave",
+      "WeatherNight": "Tropical Night"
+    },
+    "6": {
+      "WeatherDay": "Heat Wave",
+      "WeatherNight": "Tropical Night"
+    },
+    "7": {
+      "WeatherDay": "Heat Wave",
+      "WeatherNight": "Tropical Night"
+    },
+    "8": {
+      "WeatherDay": "Cloudy",
+      "WeatherNight": "Torrential Rain"
+    },
+    "9": {
+      "WeatherDay": "Heat Wave",
+      "WeatherNight": "Tropical Night"
+    },
+    "10": {
+      "WeatherDay": "Clear",
+      "WeatherNight": "Torrential Rain"
+    },
+    "11": {
+      "WeatherDay": "Torrential Rain",
+      "WeatherNight": "Clear"
+    },
+    "12": {
+      "WeatherDay": "Heat Wave",
+      "WeatherNight": "Tropical Night"
+    },
+    "15": {
+      "WeatherDay": "Heat Wave",
+      "WeatherNight": "Tropical Night"
+    },
+    "16": {
+      "WeatherDay": "Torrential Rain",
+      "WeatherNight": "Clear"
+    },
+    "17": {
+      "WeatherDay": "Heat Wave",
+      "WeatherNight": "Torrential Rain"
+    },
+    "18": {
+      "WeatherDay": "Torrential Rain",
+      "WeatherNight": "Clear"
+    },
+    "19": {
+      "WeatherDay": "Cloudy",
+      "WeatherNight": "Rain"
+    },
+    "22": {
+      "WeatherDay": "Clear",
+      "WeatherNight": "Tropical Night"
+    },
+    "23": {
+      "WeatherDay": "Clear",
+      "WeatherNight": "Tropical Night"
+    },
+    "24": {
+      "WeatherDay": "Clear",
+      "WeatherNight": "Tropical Night"
+    },
+    "25": {
+      "WeatherDay": "Clear",
+      "WeatherNight": "Tropical Night"
+    },
+    "26": {
+      "WeatherDay": "Clear",
+      "WeatherNight": "Torrential Rain"
+    },
+    "27": {
+      "WeatherDay": "Rain",
+      "WeatherNight": "Torrential Rain"
+    },
+    "28": {
+      "WeatherDay": "Clear",
+      "WeatherNight": "Tropical Night"
+    },
+    "30": {
+      "WeatherDay": "Heat Wave",
+      "WeatherNight": "Tropical Night"
+    }
+  },
+  "dayToFreeTime": {
+    "21": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Restricted"
+    },
+    "22": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Free"
+    },
+    "23": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Free"
+    },
+    "24": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Free"
+    },
+    "25": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Free"
+    },
+    "26": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Free"
+    },
+    "27": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Free"
+    },
+    "28": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Free"
+    },
+    "29": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Free"
+    },
+    "30": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Free"
+    },
+    "31": {
+      "DaySlot": "Blocked",
+      "NightSlot": "Restricted"
+    }
+  }
+}

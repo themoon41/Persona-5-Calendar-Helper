@@ -24,7 +24,12 @@
     <Compile Include="Persona_5_Calendar_Helper.py" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="AprilSettings.json" />
+    <Content Include="AugustSettings.json" />
     <Content Include="DecemberSettings.json" />
+    <Content Include="JulySettings.json" />
+    <Content Include="JuneSettings.json" />
+    <Content Include="MaySettings.json" />
     <Content Include="NovemberSettings.json" />
     <Content Include="OctoberSettings.json" />
     <Content Include="SeptemberSettings.json" />

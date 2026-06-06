@@ -2,7 +2,7 @@ import json
 
 months = []
 
-settingsFiles = ["SeptemberSettings.json", "OctoberSettings.json", "NovemberSettings.json", "DecemberSettings.json"]
+settingsFiles = ["AprilSettings.json", "MaySettings.json", "JuneSettings.json", "JulySettings.json", "AugustSettings.json", "SeptemberSettings.json", "OctoberSettings.json", "NovemberSettings.json", "DecemberSettings.json"]
 
 for settings in settingsFiles:
     with open(settings, "r") as f:
