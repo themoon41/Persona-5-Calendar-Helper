@@ -18,6 +18,13 @@
         "Footnote": "MASTER"
       }
     ],
+    "5": [
+      {
+        "Type": "Story",
+        "Title": "Mission Deadline",
+        "Details": "End of Exhibition"
+      }
+    ],
     "7": [
       {
         "Type": "Puzzle",
@@ -30,6 +37,13 @@
         "Type": "Puzzle",
         "Title": "Crossword",
         "Footnote": "WARDROBE"
+      }
+    ],
+    "21": [
+      {
+        "Type": "Story",
+        "Title": "Mission Start",
+        "Details": "Kaneshiro's Palace"
       }
     ],
     "22": [

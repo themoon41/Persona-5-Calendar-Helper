@@ -11,6 +11,13 @@
   "nextMonthNum": 3,
   "year": "2017",
   "dayToEvents": {
+    "3": [
+        {
+          "Type": "Story",
+          "Title": "Mission Deadline",
+          "Details": "Day of Fates"
+        }
+    ]
   },
   "dayToWeather": {
     "1": {

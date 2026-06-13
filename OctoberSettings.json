@@ -39,6 +39,13 @@
         "Footnote": "HALLOWEEN"
       }
     ],
+    "11": [
+      {
+        "Type": "Story",
+        "Title": "Mission Deadline",
+        "Details": "Day Haru is sold"
+      }
+    ],
     "16": [
       {
         "Type": "Jazz Club",
@@ -81,6 +88,11 @@
       }
     ],
     "30": [
+      {
+        "Type": "Story",
+        "Title": "Mission Start",
+        "Details": "Niijima's Palace"
+      },
       {
         "Type": "Jazz Club",
         "Title": "Makarakarn",

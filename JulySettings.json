@@ -25,6 +25,13 @@
         "Footnote": "NARCOTICS"
       }
     ],
+    "9": [
+      {
+        "Type": "Story",
+        "Title": "Mission Deadline",
+        "Details": "Day of Photo Leak"
+      }
+    ],
     "12": [
       {
         "Type": "Puzzle",
@@ -69,6 +76,13 @@
         "Type": "Puzzle",
         "Title": "Crossword",
         "Footnote": "FINALS"
+      }
+    ],
+    "26": [
+      {
+        "Type": "Story",
+        "Title": "Mission Start",
+        "Details": "Futaba's Palace"
       }
     ],
     "27": [

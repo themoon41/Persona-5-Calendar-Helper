@@ -16,6 +16,11 @@
         "Type": "Puzzle",
         "Title": "Crossword",
         "Footnote": "GOLDEN"
+      },
+      {
+        "Type": "Story",
+        "Title": "Mission Deadline",
+        "Details": "Day of Expulsion"
       }
     ],
     "10": [
@@ -47,6 +52,11 @@
       }
     ],
     "18": [
+      {
+        "Type": "Story",
+        "Title": "Mission Start",
+        "Details": "Madarame's Palace"
+      },
       {
         "Type": "Puzzle",
         "Title": "Crossword",

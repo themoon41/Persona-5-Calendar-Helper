@@ -13,6 +13,11 @@
   "dayToEvents": {
     "18": [
       {
+        "Type": "Story",
+        "Title": "Mission Start",
+        "Details":  "Kamoshida's Palace"
+      },
+      {
         "Type": "Puzzle",
         "Title": "Crossword",
         "Footnote": "SEMESTERS"

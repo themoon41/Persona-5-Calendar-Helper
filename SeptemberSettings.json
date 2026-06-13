@@ -27,6 +27,11 @@
     ],
     "19": [
       {
+        "Type": "Story",
+        "Title": "Mission Start",
+        "Details": "Okumura's Palace"
+      },
+      {
         "Type": "Puzzle",
         "Title": "Crossword",
         "Footnote": "FESTIVAL"

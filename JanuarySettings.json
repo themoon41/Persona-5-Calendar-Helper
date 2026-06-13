@@ -11,6 +11,13 @@
   "nextMonthNum": 2,
   "year": "2017",
   "dayToEvents": {
+    "13": [
+      {
+        "Type": "Story",
+        "Title": "Mission Start",
+        "Details": "Maruki's Palace"
+      }
+    ],
     "14": [
       {
         "Type": "Puzzle",
