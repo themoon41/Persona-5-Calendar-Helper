@@ -104,6 +104,10 @@
         "Type": "Puzzle",
         "Title": "Crossword",
         "Footnote": "DIONYSUS"
+      },
+      {
+        "Type": "Subway",
+        "Title": "Train Reading"
       }
     ],
     "21": [
@@ -175,25 +179,31 @@
             "Footnote": "LACHESIS"
           }
         ],
-        "24": [
-          {
-            "Type": "Class",
-            "Title": "Pop Quiz",
-            "ListDetails": [ "Kind-hearted", "Negative", "Resentful" ]
-          }
-        ],
-        "27": [
-          {
-            "Type": "Class",
-            "Title": "Pop Quiz",
-            "Footnote": "To friends of friends of friends"
-          },
-          {
-            "Type": "Puzzle",
-            "Title": "Crossword",
-            "Footnote": "OROCHI"
-          }
-        ],
+    "24": [
+      {
+        "Type": "Class",
+        "Title": "Pop Quiz",
+        "ListDetails": [ "Kind-hearted", "Negative", "Resentful" ]
+      }
+    ],
+    "26": [
+      {
+        "Type": "Subway",
+        "Title": "Train Reading"
+      }
+    ],
+    "27": [
+      {
+        "Type": "Class",
+        "Title": "Pop Quiz",
+        "Footnote": "To friends of friends of friends"
+      },
+      {
+        "Type": "Puzzle",
+        "Title": "Crossword",
+        "Footnote": "OROCHI"
+      }
+    ],
     "29": [
       {
         "Type": "TV",
