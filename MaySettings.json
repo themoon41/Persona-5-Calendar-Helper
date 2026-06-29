@@ -230,6 +230,10 @@
         "Type": "Class",
         "Title": "Pop Quiz",
         "Footnote": "1:1.414"
+      },
+      {
+        "Type": "Subway",
+        "Title": "Train Reading"
       }
     ],
     "22": [
@@ -289,6 +293,12 @@
         "ListDetails": [ "Together", "Senses", "Senses coming together" ]
       }
     ],
+    "24": [
+      {
+        "Type": "Subway",
+        "Title": "Train Reading"
+      }
+    ],
     "26": [
       {
         "Type": "Class",
@@ -345,6 +355,12 @@
             ]
           }
         ]
+      }
+    ],
+    "30": [
+      {
+        "Type": "Subway",
+        "Title": "Train Reading"
       }
     ],
     "31": [
