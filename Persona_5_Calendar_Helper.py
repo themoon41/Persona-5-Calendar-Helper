@@ -62,7 +62,7 @@ for settings in settingsFiles:
                         if event["Type"] == "Jazz Club":
                             event["Details"] = f"Taking a party member to the Jazz Club will teach them '{event['Title']}.'"
                         if event["Type"] == "Subway":
-                            event["Details"] == "Joker is able to read on the train today"
+                            event["Details"] = "Joker is able to read on the train today."
                         if event["Type"] == "Puzzle":
                             event["Details"] = f"New crossword at Leblanc! The solution is: '{event['Footnote']}.'"
                         if event["Type"] == "Exam" and event["Title"] == "Exam Scores":
