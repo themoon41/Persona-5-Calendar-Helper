@@ -77,6 +77,10 @@
         "Type": "Class",
         "Title": "Pop Quiz",
         "Footnote": "20 white, 12 black"
+      },
+      {
+        "Type": "Subway",
+        "Title": "Train Reading"
       }
     ],
     "25": [
@@ -140,6 +144,10 @@
         "Type": "Puzzle",
         "Title": "Crossword",
         "Footnote": "RANKING"
+      },
+      {
+        "Type": "Subway",
+        "Title": "Train Reading"
       }
     ],
     "29": [
