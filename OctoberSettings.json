@@ -73,6 +73,10 @@
         "Type": "Puzzle",
         "Title": "Crossword",
         "Footnote": "BLACK"
+      },
+      {
+        "Type": "Subway",
+        "Title": "Train Reading"
       }
     ],
     "9": [
