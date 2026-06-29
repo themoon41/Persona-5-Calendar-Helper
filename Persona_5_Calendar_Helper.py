@@ -71,6 +71,10 @@ for settings in settingsFiles:
                             event["Details"] = "Tune into the home shopping program on a TV in Leblanc for a choice between these two packages:"
                         if event["Type"] == "Class" and "ListDetails" in event:
                             event["Details"] = "Here are the answers to the prompts in order:"
+                        if event["Type"] == "Subway":
+                            event["Details"] = "Joker can read on the train today"
+                        if event["Type"] == "Crane"
+                            event["Details"] = f"The {event['Footnote']} plushie is now in the crane game."
                         elif event["Type"] == "Class":
                             event["Details"] = f"The answer to the prompt is: '{event['Footnote']}.'"
                         events.append(event)
